@@ -1,0 +1,145 @@
+body { 
+	background-color: #e3ecf4;
+	padding: rem-calc(50)  rem-calc(20);
+	@include breakpoint(small only) {
+		padding: rem-calc(20)  rem-calc(10);
+	}
+	.off-canvas-content {
+		background-color: transparent;
+	}
+}
+
+a {
+	color: #111;
+	transition: 0.3s ease-in-out;
+	&:hover {
+		color: #5687c3
+	}
+}
+
+#masthead {
+	max-width :$global-width;
+	background-color: #FFF;
+	margin: auto;
+	padding-left: rem-calc(20);
+	padding-right: rem-calc(20);
+	
+	.site-title {
+		padding: rem-calc(45);
+		
+		@include breakpoint(small only) {
+			padding: rem-calc(40) rem-calc(10) rem-calc(20);
+		}
+
+		h1 {
+			font-weight: 300;
+			text-transform: uppercase;
+			margin: 0;
+			a {
+				color: #111;
+			}
+		}
+		.description {
+			color: #777;
+		}
+	}
+
+	.main-menu {
+		border-top: 1px solid #eee;
+		border-bottom: 1px solid #eee;
+		ul {
+			li {
+				border: none;
+				a {
+					color: #333;
+					text-transform: uppercase;
+					font-weight: 400;
+					&:hover {
+						background-color: transparent;
+						color: #2199e8;
+				  	}
+				}
+				ul {
+					background-color: #FFF;
+					border: 1px solid #eee;
+					li {
+						border-bottom: 1px solid #eee;
+					}
+				}
+			}
+		}
+	}
+}
+
+div[role="main"] {
+	background-color: #FFF;
+	margin-top: 0 !important;
+	padding: rem-calc(50) rem-calc(50) 0;
+	@include breakpoint(small only) {
+		padding: rem-calc(20) rem-calc(10) 0;
+	}
+
+	.post-thumbnail {
+		overflow: hidden;
+		margin:1.5rem auto;
+		img {
+			transition: 0.3s ease-in-out;
+				&:hover {
+					-webkit-transform: scale( 1.03 );
+				    -ms-transform: scale( 1.03 );
+				    transform: scale( 1.03 );
+				    opacity: 0.9;
+				}
+		}
+	}
+	article {
+		div.post {
+			border-bottom: 1px solid #eee;
+			margin-bottom: rem-calc(30);
+			&:last-child {
+				border-bottom: 0;
+				@include breakpoint(small only) {
+					margin-bottom: rem-calc(60);
+				}
+
+
+			}
+		}
+	}
+
+}
+
+
+#author-profile {
+	img.avatar {
+		border-radius: 100%;
+		-webkit-filter: sepia(1);
+    			filter: sepia(1);
+
+	}
+	.social-media {
+		margin-bottom: 1.5rem;
+		span {
+			padding: rem-calc(7);
+			i {
+				font-size: 1.2rem;
+			}
+		}
+	}
+}
+
+.widget {
+	padding-top: 1.5rem;
+	h6 {
+		text-transform: uppercase;
+	}
+}
+
+article footer {
+	p , p a {
+		color: $dark-gray;
+	}
+	.tags {
+		margin-right: 1.5rem;
+	}
+}
