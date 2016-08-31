@@ -108,17 +108,6 @@ $ npm run phpcbf
 * [Zurb Foundation Docs](http://foundation.zurb.com/docs/)
 * [WordPress Codex](http://codex.wordpress.org/)
 
-## Showcase
-
-* [WP Diamonds](http://www.wpdiamonds.com/)
-* [Storm Arts](http://stormarts.fi/)
-* [USS Illinois](http://ussillinois.org/)
-* [OffGrid Magazine](https://offgridweb.com/)
-* [Axe](http://www.axe.be/)
-* [ProfitGym](http://profitgym.nl/)
-* [Dr Now](http://www.drnow.com/)
-
->Credit goes to all the brilliant designers and developers out there. Have **you** made a site that should be on this list? [Please let me know](https://twitter.com/ghassemin)
 
 ## Contributing
 #### Here are ways to get involved:
