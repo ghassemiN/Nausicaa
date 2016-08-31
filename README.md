@@ -123,8 +123,8 @@ $ npm run phpcbf
 ## Contributing
 #### Here are ways to get involved:
 
-1. [Star](https://github.com/ghassemiN/wp-Nausicaa/stargazers) the project!
-2. Answer questions that come through [GitHub issues](https://github.com/ghassemiN/wp-Nausicaa/issues)
+1. [Star](https://github.com/ghassemiN/Nausicaa/stargazers) the project!
+2. Answer questions that come through [GitHub issues](https://github.com/ghassemiN/Nausicaa/issues)
 3. Report a bug that you find
 4. Share a theme you've built on top of FoundationPress
 
