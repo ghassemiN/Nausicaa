@@ -1,6 +1,6 @@
 # Nausicaa 
 
-This is a theme for WordPress based on [FoundationPress](https://github.com/olefredrik/FoundationPress).
+This is a theme for WordPress based on [FoundationPress](https://github.com/olefredrik/FoundationPress). Nausicaa (na.uɕika) is a fictional character from [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki)'s science fiction manga series [Nausicaä of the Valley of the Wind](https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_%28manga%29) and his [anime film](https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_%28film%29) of the same name. 
 
 Please fork, copy, modify, delete, share or do whatever you like with this.
 
