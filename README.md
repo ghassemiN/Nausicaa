@@ -118,7 +118,7 @@ $ npm run phpcbf
 * [ProfitGym](http://profitgym.nl/)
 * [Dr Now](http://www.drnow.com/)
 
->Credit goes to all the brilliant designers and developers out there. Have **you** made a site that should be on this list? [Please let me know](https://twitter.com/olefredrik)
+>Credit goes to all the brilliant designers and developers out there. Have **you** made a site that should be on this list? [Please let me know](https://twitter.com/ghassemin)
 
 ## Contributing
 #### Here are ways to get involved:
