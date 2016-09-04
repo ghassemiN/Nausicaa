@@ -89,6 +89,11 @@ a {
 			border: none;
 		}
 	}
+	button{
+		&:hover{
+			background-color: #fff;
+		}
+		}
 	.input-group-field {
 		border-left: 1px solid #eee;
 	}
@@ -194,4 +199,3 @@ article footer {
 		}
 	}
 }
-
